@@ -466,5 +466,3 @@ Execute the Group 7 DAG successfully in the assigned Airflow environment
 Capture Airflow DAG execution evidence
 Complete Prometheus/Grafana monitoring evidence
 Finalize project documentation
-Prepare final presentation
-Prepare individual contribution and viva documentation
